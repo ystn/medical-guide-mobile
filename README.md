@@ -105,7 +105,7 @@ medical-guide-mobile/
 - Current date display
 - Medication cards by time of day
 
-![Home Screen](./screenshots/home-page.jpg)
+<img src="./screenshots/home-page.jpg" width="300" alt="Home Screen" />
 
 ### Calendar Screen
 - Monthly calendar view
@@ -113,8 +113,8 @@ medical-guide-mobile/
 - Color-coded medication indicators
 - Schedule type legend
 
-![Calendar View](./screenshots/medication-schedule-calendar-page.jpg)
-![List View](./screenshots/medication-schedule-list-page.jpg)
+<img src="./screenshots/medication-schedule-calendar-page.jpg" width="300" alt="Calendar View" />
+<img src="./screenshots/medication-schedule-list-page.jpg" width="300" alt="List View" />
 
 ### Prescriptions Screen
 - Status-based filtering
@@ -122,7 +122,7 @@ medical-guide-mobile/
 - Visual schedule indicators
 - Doctor information
 
-![Prescriptions Screen](./screenshots/prescriptions-page.jpg)
+<img src="./screenshots/prescriptions-page.jpg" width="300" alt="Prescriptions Screen" />
 
 ### Profile Screen
 - User information
@@ -130,14 +130,14 @@ medical-guide-mobile/
 - Notification preferences
 - Support access
 
-![Profile Screen](./screenshots/profile-page.jpg)
+<img src="./screenshots/profile-page.jpg" width="300" alt="Profile Screen" />
 
 ### QR Code Scanner
 - Scan QR codes to share patient profile
 - Secure data sharing
 - Quick access to records
 
-![QR Scanner Screen](./screenshots/qr-scan-page.jpg)
+<img src="./screenshots/qr-scan-page.jpg" width="300" alt="QR Scanner Screen" />
 
 ## Contributing
 
